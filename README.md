@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Java Full Stack Developer | Crafting robust and scalable web solutions | Proficient in Java, Spring Boot, ReactJS | Extensive experience in database management with SQL, MongoDB | Dedicated to clean code and innovative problem-solving | Enthusiastic about contributing to open-source projects and embracing new technologies. Let's code together</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprat&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprat" /> </p>
 
