@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pratiktillekar57@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xl3jU-zXBa5oiPlhlMRttW4juLqlTwQO/view]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IrgQZ-90eidaBg6JXGc-PY99x4BhNCUN/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
